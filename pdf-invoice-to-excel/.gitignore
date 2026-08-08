@@ -1,0 +1,7 @@
+*.exe
+*.pdf
+*.xlsx
+*.txt
+__pycache__/
+*.pyc
+Day_test*
